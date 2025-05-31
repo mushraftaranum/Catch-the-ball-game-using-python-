@@ -23,31 +23,31 @@ A fun and interactive computer vision game built using **Python**, **OpenCV**, a
 
 ## 📌 How to Run
 1. Clone the repository:
-   ```bash
+  
    git clone https://github.com/your-username/hand-tracking-game.git
    cd hand-tracking-game
-````
+
 
 2. Install dependencies:
 
-   ```bash
+   
    pip install opencv-python mediapipe numpy
-   ```
+   
 
 3. Run the game:
 
-   ```bash
+   
    python hand_tracking_game.py
-   ```
+  
 
-## ✅ Gameplay Instructions
+ ✅ Gameplay Instructions
 
 * Show your hand in front of the webcam.
 * Move your hand to control the green basket.
 * Catch the falling red balls before they hit the ground.
 * You have 3 lives. Try to score as much as you can!
 
-## 📚 Learnings
+📚 Learnings
 
 This project helped me understand:
 
@@ -55,11 +55,11 @@ This project helped me understand:
 * Image masking and processing with OpenCV
 * Implementing interactive game logic in Python
 
-## 🤝 Contributing
+🤝 Contributing
 
 Feel free to fork this repo, open issues, or submit pull requests for new features or improvements!
 
-## 📬 Feedback
+📬 Feedback
 
 Open to feedback and ideas! Connect with me on [LinkedIn](www.linkedin.com/in/mushraf-taranum-bb994b299) or raise an issue here.
 

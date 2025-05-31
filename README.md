@@ -1,14 +1,9 @@
-Great idea! A well-structured `README.md` on GitHub can make your project stand out and easy to understand. Here's a sample `README.md` for your **Hand-Tracking Catch the Ball Game**:
 
----
-
-```markdown
 # 🖐️ Catch the Ball - Hand Tracking Game 🎮
 
 A fun and interactive computer vision game built using **Python**, **OpenCV**, and **MediaPipe**. Control a virtual basket with your **hand gestures** to catch falling balls in real-time!
 
-## 🎥 Demo
-> *(You can upload a demo video/gif here or link to a YouTube/LinkedIn post)*  
+## 🎥 Demo  
 !(https://www.linkedin.com/posts/mushraf-taranum-bb994b299_computervision-mediapipe-opencv-activity-7334619290463031296-JxV9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEg4kP0Bc6NnUjS_QeX9Db_ncjs4El5phAc)
 
 ## 🚀 Features
@@ -25,16 +20,6 @@ A fun and interactive computer vision game built using **Python**, **OpenCV**, a
 - MediaPipe
 - NumPy
 
-## 📁 Project Structure
-```
-
-├── hand\_tracking\_game.py
-├── README.md
-├── assets/
-│   ├── demo.gif
-│   └── screenshot.png
-
-````
 
 ## 📌 How to Run
 1. Clone the repository:

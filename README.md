@@ -35,6 +35,16 @@ A fun and interactive computer vision game built using **Python**, **OpenCV**, a
   python hand_tracking_game.py
 
 
+## 🚀 Features
+- Real-time hand tracking using webcam
+- Hand landmark detection with **MediaPipe**
+- Hand masking and highlighting
+- Basket movement controlled by wrist position
+- Score tracking and lives system
+- Game Over condition handling
+
+
+
  ## ✅ Gameplay Instructions
 
 * Show your hand in front of the webcam.

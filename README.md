@@ -29,9 +29,9 @@ A fun and interactive computer vision game built using **Python**, **OpenCV**, a
    git clone https://github.com/your-username/hand-tracking-game.git
    cd hand-tracking-game
 
-2. Install dependencies
+2. Install dependencies:
    ```bash
-  pip install opencv-python mediapipe numpy
+   pip install opencv-python mediapipe numpy
 
 3.Run the game:
   ```bash

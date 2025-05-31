@@ -34,7 +34,8 @@ A fun and interactive computer vision game built using **Python**, **OpenCV**, a
   ```bash
   python hand_tracking_game.py
 
- ##✅ Gameplay Instructions
+
+ ## ✅ Gameplay Instructions
 
 * Show your hand in front of the webcam.
 * Move your hand to control the green basket.
@@ -42,7 +43,7 @@ A fun and interactive computer vision game built using **Python**, **OpenCV**, a
 * You have 3 lives. Try to score as much as you can!
 
 
-##📚 Learnings
+## 📚 Learnings
 
 This project helped me understand:
 
@@ -51,7 +52,7 @@ This project helped me understand:
 * Implementing interactive game logic in Python
 
 
-##🤝 Contributing
+## 🤝 Contributing
 
 Feel free to fork this repo, open issues, or submit pull requests for new features or improvements!
 
